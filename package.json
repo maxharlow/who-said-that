@@ -2,8 +2,8 @@
     "name": "who-said-that",
     "private": true,
     "dependencies": {
-	"highland": "2.5.x",
-	"request": "2.58.x",
+	"highland": "2.6.x",
+	"request": "2.67.x",
 	"csv-write-stream": "1.0.x"
     },
     "scripts": {
